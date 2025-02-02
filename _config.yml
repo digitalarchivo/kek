@@ -1,1 +1,23 @@
-remote_theme: devich/quick@0.0.1
+# Your site's settings
+lang: en-US # e.g. uk, pl, en-US
+bg_color: dark # can be dark, light or auto
+# theme-color is the main accent color and can be red, pink, fuchsia, purple, violet, indigo, blue, azure, cyan, jade, green,
+# lime, yellow, amber, pumpkin, orange, sand, grey, zinc, slate. See samples on https://picocss.com/docs/version-picker
+theme_color: azure
+title: Quick
+description: Luka
+keywords: github pages, github readme, github pages theme, jekyll theme, landing page
+gtag: G-X7HSHVZDZT # Google Analytics tag (e.g. G-A1BCDEFGHI). Please replace it with YOUR tag.
+
+# “I understand why they would be shocked, initially,” Harrison told The News. 
+# “But I do believe that we positioned ourselves to win now and also win in the future. 
+# And that’s ultimately the goal and why we’re here. 
+# It’s one of those things where it’s my job to make the tough decisions that put our goals first and foremost.”
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+plugins:
+  - jekyll-optional-front-matter
