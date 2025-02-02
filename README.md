@@ -1,1 +1,1 @@
-# kek
+“I understand why they would be shocked, initially,” Harrison told The News. “But I do believe that we positioned ourselves to win now and also win in the future. And that’s ultimately the goal and why we’re here. It’s one of those things where it’s my job to make the tough decisions that put our goals first and foremost.”
